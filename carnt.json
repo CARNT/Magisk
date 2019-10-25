@@ -1,0 +1,21 @@
+{
+  "app": {
+    "version": "7.3.6B",
+    "versionCode": "248",
+    "link": "https://github.com/CARNT/Magisk/raw/master/MagiskManager-v7.3.6B-CARNT.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "20.1",
+    "versionCode": "20001",
+    "link": "https://github.com/CARNT/Magisk/raw/master/Magisk-v20.1-CARNT.zip",
+    "note": ""
+  },
+  "uninstaller": {
+    "link": ""
+  },
+  "snet": {
+    "versionCode": "",
+    "link": ""
+  }
+}
