@@ -1,14 +1,14 @@
 {
   "app": {
-    "version": "7.3.6B",
-    "versionCode": "248",
-    "link": "https://github.com/CARNT/Magisk/raw/master/MagiskManager-v7.3.6B-CARNT.apk",
+    "version": "7.4.0B",
+    "versionCode": "253",
+    "link": "https://github.com/CARNT/Magisk/raw/master/MagiskManager-v7.4.0B-CARNT.apk",
     "note": ""
   },
   "magisk": {
-    "version": "20.1",
-    "versionCode": "20001",
-    "link": "https://github.com/CARNT/Magisk/raw/master/Magisk-v20.1-CARNT.zip",
+    "version": "20.1B",
+    "versionCode": "20100",
+    "link": "https://github.com/CARNT/Magisk/raw/master/Magisk-v20.1B-CARNT.zip",
     "note": ""
   },
   "uninstaller": {
